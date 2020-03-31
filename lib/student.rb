@@ -4,6 +4,7 @@ class Student
   end
   def raise_hand
     phrase = 'Pick me!'
+    phrase
     #  10.times { puts phrase }
   end
 end
