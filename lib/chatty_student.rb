@@ -6,6 +6,6 @@ class ChattyStudent < Student
   def raise_hand
     super
     phrase = 'Pick me!'
-    #10.times { puts phrase }
+    10.times { puts phrase }
   end
 end
